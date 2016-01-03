@@ -93,6 +93,8 @@ function mapPage(pageName, url) {
       $('.next-text').html(page.nextText || '');
       $('.next-link').toggle(!!page.next);
       $('.next-link a').attr('href', '#' + (page.next || ''));
+      $('.prev-link').toggle(!!page.prev);
+      $('.prev-link a').attr('href', '#' + (page.prev || ''));
       editor.code = page.code || '';
       updateNav(url);
 

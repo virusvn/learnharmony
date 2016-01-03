@@ -1,7 +1,7 @@
 export var routes = [
     {
         "page": "about",
-        "title": "About"
+        "title": "Giới thiệu"
     },
     {
         "page": "es6discuss/arrow-functions",
