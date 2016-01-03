@@ -4,8 +4,8 @@ navGroup: .lessons
 first: true
 next: lessons/arrow-functions-context
 nextText: |
-    But Arrow Functions are not exactly like regular functions.  
-    Let's find out why
+    Nhưng thật sự thì Arrow Functions không giống hoàn toàn function bình thường.
+    Hãy tìm hiểu tại sao!
 heading: Arrow Functions
 code: |
     var values = [1, 2, 3, 4, 5, 6];
@@ -16,9 +16,9 @@ code: |
     console.log(even, evenSquares);
 ---
 
-Arrow Functions are a shorthand for anonymous functions in JavaScript.  For the most part, they behave just like normal, anonymous functions but with a lighter syntax.
+Arrow Function là cách viết ngắn gọn của hàm vô danh trong Javascript. Trong đa số các trường hợp thì nó chỉ giống như hàm vô danh nhưng với cú pháp gọn nhẹ hơn.
 
-A standard function can be described as 
+Một hàm chuẩn thường được viết như sau:
 
 ```
 var myFunction = function(arg) { 
@@ -26,14 +26,14 @@ var myFunction = function(arg) {
 };
 ```
 
-With Arrow Functions, you can write the same thing: 
+Với Arrow Functions, bạn có thể viết theo cách ES6 với kết quả tương tự: 
 ```
 var myFunction = (arg) => arg.toUpperCase();
 ```
 
-### Where will you use Arrow Functions?
-Arrow Functions are particularly useful when passing anonymous functions into other functions.  For instance, the syntax for filtering and mapping values becomes much more terse.
+### Bạn sẽ sử dụng Arrow Functions lúc nào?
+Arrow Functions thực sự tiện lợi khi truyền một hàm vô danh cho một hàm khác. Ví dụ, cú pháp của filtering và mapping trở nên ngắn gọn hơn rất nhiều.
 
-### Give it a try!
+### Hãy thử đoạn code sau!
 
 

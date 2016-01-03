@@ -140,7 +140,7 @@ export var routes = [
         "title": "Arrow Functions (context)",
         "navGroup": ".lessons",
         "next": "lessons/destructuring",
-        "nextText": "Now, let's learn about variable Destructuring."
+        "nextText": "Tiếp theo, chúng ta sẽ tìm hiểu về Destructuring."
     },
     {
         "page": "lessons/arrow-functions",
@@ -148,7 +148,7 @@ export var routes = [
         "navGroup": ".lessons",
         "first": true,
         "next": "lessons/arrow-functions-context",
-        "nextText": "But Arrow Functions are not exactly like regular functions.  \nLet's find out why\n"
+        "nextText": "Nhưng thật sự thì Arrow Functions không giống hoàn toàn function bình thường.\nHãy tìm hiểu tại sao!\n"
     },
     {
         "page": "lessons/block-scope-const",
