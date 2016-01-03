@@ -13,7 +13,7 @@ editor.render($('#app-container .editor-container'));
 let console = new Console();
 console.render($('#app-container .console-container'));
 
-let disqus = new Disqus('businesscardvn', 'https://businesscard.vn/learharmony/#');
+// let disqus = new Disqus('businesscardvn', 'https://businesscard.vn/learharmony/#');
 
 populateNav(routes);
 
@@ -99,7 +99,7 @@ function mapPage(pageName, url) {
       updateNav(url);
 
       animateContent(page.intro);
-      disqus.reload(pageName, page.heading);
+      // disqus.reload(pageName, page.heading);
       ga('send', 'pageview', pageName);
 
     }).catch(function(errors) {
