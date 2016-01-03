@@ -13,7 +13,7 @@ editor.render($('#app-container .editor-container'));
 let console = new Console();
 console.render($('#app-container .console-container'));
 
-let disqus = new Disqus('learnharmony', 'http://learnharmony.org/#');
+let disqus = new Disqus('businesscardvn', 'https://businesscard.vn/learharmony/#');
 
 populateNav(routes);
 

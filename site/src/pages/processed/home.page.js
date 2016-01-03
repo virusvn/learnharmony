@@ -3,9 +3,9 @@ export var page = {
     "route": "/",
     "first": true,
     "next": "lessons/arrow-functions",
-    "nextText": "Let's get started with our first lession -- Arrow Functions",
+    "nextText": "Bắt đầu bài đầu tiên-- Arrow Functions",
     "heading": "Learn ES2015 (ES6/Harmony) Now!",
     "hideComments": true,
     "code": "let futureJavascript = () => {\n    let ES2015 = 'awesome';\n    console.log(`The future of JavaScript is ${ES2015}`);\n};\n\nfutureJavascript();",
-    "intro": "<p>Welcome to LearnHarmony.org.  This site is designed to help you learn the new features of ECMAScript (primarily ES2015 for now) through examples and exploration. Write to the console, have some fun.</p>\n<p>There are several micro-lessons about all of the new features in JavaScript.  Have fun!</p>\n"
+    "intro": "<p>Chào mừng bạn đến với dự án học ES6 &quot;LearnHarmony Project&quot;. Trang này được thiết kế để học những tính năng mới của ES2015 bằng những ví dụ và tự khám phá bằng code. Bạn có thể viết vào console bên trái, nhấn RUN để xem kết quả.</p>\n<p>Sẽ có một số ví dụ chi tiết về toàn bộ tính năng trong Javascript.</p>\n"
 };

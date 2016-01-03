@@ -1,9 +1,9 @@
 ---
 title: About
-heading: About LearnHarmony.org
+heading: About LearnHarmony Project
 hideEditor: true
 ---
 
-This site was created by [Brian Genisio](http://briangenisio.com) and [Miguel Castillo](https://github.com/MiguelCastillo) as a mechanism to learn ES6 and teach others about it.  The code for this site is written in ES6 using [Babel](http://babeljs.io) and it is available on [Github](http://www.github.com/BrianGenisio/LearnHarmony)
+Dự án "LearHarmony" này được khởi tạo bởi [Brian Genisio](http://briangenisio.com) và [Miguel Castillo](https://github.com/MiguelCastillo) với mục đích học ES6 và hướng dẫn về nó. Được dịch ra tiếng Việt trong quá trình học bởi [Nhan Nguyen](https://www.businesscard.vn). Toàn bộ code trên trang này được viết bằng ES6 sử dụng [Babel](http://babeljs.io). Repo gốc [Github](http://www.github.com/BrianGenisio/LearnHarmony)
 
 Have Fun!

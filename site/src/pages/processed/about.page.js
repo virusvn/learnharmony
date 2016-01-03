@@ -1,6 +1,6 @@
 export var page = {
     "title": "About",
-    "heading": "About LearnHarmony.org",
+    "heading": "About LearnHarmony Project",
     "hideEditor": true,
-    "intro": "<p>This site was created by <a href=\"http://briangenisio.com\">Brian Genisio</a> and <a href=\"https://github.com/MiguelCastillo\">Miguel Castillo</a> as a mechanism to learn ES6 and teach others about it.  The code for this site is written in ES6 using <a href=\"http://babeljs.io\">Babel</a> and it is available on <a href=\"http://www.github.com/BrianGenisio/LearnHarmony\">Github</a></p>\n<p>Have Fun!</p>\n"
+    "intro": "<p>Dự án &quot;LearHarmony&quot; này được khởi tạo bởi <a href=\"http://briangenisio.com\">Brian Genisio</a> và <a href=\"https://github.com/MiguelCastillo\">Miguel Castillo</a> với mục đích học ES6 và hướng dẫn về nó. Được dịch ra tiếng Việt trong quá trình học bởi <a href=\"https://www.businesscard.vn\">Nhan Nguyen</a>. Toàn bộ code trên trang này được viết bằng ES6 sử dụng <a href=\"http://babeljs.io\">Babel</a>. Repo gốc <a href=\"http://www.github.com/BrianGenisio/LearnHarmony\">Github</a></p>\n<p>Have Fun!</p>\n"
 };

@@ -132,7 +132,7 @@ export var routes = [
         "title": "Home",
         "first": true,
         "next": "lessons/arrow-functions",
-        "nextText": "Let's get started with our first lession -- Arrow Functions",
+        "nextText": "Bắt đầu bài đầu tiên-- Arrow Functions",
         "route": "/"
     },
     {
