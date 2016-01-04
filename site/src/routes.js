@@ -195,7 +195,7 @@ export var routes = [
         "title": "Variable Destructuring",
         "navGroup": ".lessons",
         "next": "lessons/destructuring-arrays",
-        "nextText": "Destructuring isn't just for objects.  You can Destructure Arrays too!"
+        "nextText": "Destructuring cho cả đối tượng và mảng"
     },
     {
         "page": "lessons/method-shorthand",
