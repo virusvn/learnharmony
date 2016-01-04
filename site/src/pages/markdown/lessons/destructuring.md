@@ -28,7 +28,7 @@ var person = {
 };
 ```
 
-You can easily assign variables to these properties using destructuring:
+Bạn dễ dàng gán giá trị cho các biến khác bằng cách phân rã đối tượng person:
 ```
 let {first, last} = person;
 console.log(first, last);
