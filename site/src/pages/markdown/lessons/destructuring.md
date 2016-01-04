@@ -2,7 +2,7 @@
 title: Variable Destructuring
 navGroup: .lessons
 next: lessons/destructuring-arrays
-nextText: Destructuring isn't just for objects.  You can Destructure Arrays too!
+nextText: Destructuring cho cả đối tượng và mảng
 heading: Object Destructuring
 code: |
     let person = {
@@ -18,9 +18,9 @@ code: |
     console.log(wife, husband, last);
 ---
 
-Variable Destructuring is a syntactical convenience designed to help you destructure objects and arrays.  
+ Destructuring là cách tiện lợi để phân rã biến mảng và đối tượng.
 
-Let's say you have a person object:
+Giả sử bạn có đối tượng person như sau:
 ```
 var person = {
     first: 'Marsellus',
