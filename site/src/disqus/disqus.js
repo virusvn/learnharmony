@@ -9,7 +9,7 @@ class Disqus {
 
   reload(pageName, title, debug) {
     var identifier = pageName;
-    var url = '//www.businesscard.vn/learharmony/#' + pageName;
+    var url = '//www.businesscard.vn/learnharmony/#' + pageName;
 
     if (this.loaded) {
       return this.resetDisqus(identifier, url, title);
