@@ -15,7 +15,7 @@ code: |
     futureJavascript();
 ---
 
-Chào mừng bạn đến với dự án học ES6 "LearnHarmony Project". Trang này được thiết kế để học những tính năng mới của ES2015 bằng những ví dụ và tự khám phá bằng code. Bạn có thể viết vào console bên trái, nhấn RUN để xem kết quả.
+Chào mừng bạn đến với dự án học ES6/ES2015 "LearnHarmony Project". Trang này được thiết kế để học những tính năng mới của ES2015 bằng những ví dụ và tự khám phá bằng code. Bạn có thể viết vào console bên trái, nhấn RUN để xem kết quả, rất đơn giản.
 
 Sẽ có từng ví dụ chi tiết về tất cả tính năng mới bằng Javascript.
 

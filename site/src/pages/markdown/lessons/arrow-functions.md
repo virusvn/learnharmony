@@ -16,7 +16,7 @@ code: |
     console.log(even, evenSquares);
 ---
 
-Arrow Function là cách viết ngắn gọn của hàm vô danh trong Javascript. Trong đa số các trường hợp thì nó chỉ giống như hàm vô danh nhưng với cú pháp gọn nhẹ hơn.
+Arrow Function là cách viết ngắn gọn của hàm không tên trong Javascript. Trong đa số các trường hợp thì nó chỉ giống như hàm không tên nhưng với cú pháp gọn nhẹ hơn.
 
 Một hàm chuẩn thường được viết như sau:
 

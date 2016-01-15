@@ -13,7 +13,7 @@ code: |
     
 ---
 
-In addition to the [`let` keyword](/#lessons/block-scope-let) which is block scoped, there is another new way to declare values in ES6: `const`.  Like most languages, `const` values cannot be changed at runtime.  Any code which trys to do this will fail when the code is evaluated.
+Ngoài [từ khóa `let`](/#lessons/block-scope-let) có phạm vi khối, thì còn thêm 1 cách khai báo giá trị trong ES6/ES2015 nữa: `const`. Cũng giống như các ngôn ngữ khác, giá trị của biến được khai báo bằng `const` không thể thay đổi được.
 
 ```javascript
 const foo = "bar";
@@ -22,4 +22,4 @@ console.log(foo);
 foo = "baz"; // evalutation error
 ```
 
-### Give it a try
+### Hãy thử đoạn code sau!
